@@ -1,0 +1,25 @@
+{
+  "name": "surveyapp",
+  "version": "1.0.0",
+  "description": "tshimologong assesment, simple survey web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zwavhu/Tshimologong_Assesment.git"
+  },
+  "keywords": [
+    "survey"
+  ],
+  "author": "zwavhudi mulelu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zwavhu/Tshimologong_Assesment/issues"
+  },
+  "homepage": "https://github.com/Zwavhu/Tshimologong_Assesment#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
